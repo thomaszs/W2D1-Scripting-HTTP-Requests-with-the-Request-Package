@@ -1,0 +1,22 @@
+{
+  "name": "scripting-http-requests-with-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaszs/W2D1-Scripting-HTTP-Requests-with-the-Request-Package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomaszs/W2D1-Scripting-HTTP-Requests-with-the-Request-Package/issues"
+  },
+  "homepage": "https://github.com/thomaszs/W2D1-Scripting-HTTP-Requests-with-the-Request-Package#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
